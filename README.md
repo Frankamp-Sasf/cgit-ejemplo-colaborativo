@@ -8,3 +8,4 @@
 - Ruben Vera Parraga
 - Jimmy Gilces Vargas
 - Emely Mishell Apráez González
+- Franklin Julian Campoverde Mendoza
